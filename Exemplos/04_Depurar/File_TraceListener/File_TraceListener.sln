@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_TraceListener", "File_TraceListener\File_TraceListener.csproj", "{2CA7A45D-674C-479F-B373-F01C12E8EE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA7A45D-674C-479F-B373-F01C12E8EE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA7A45D-674C-479F-B373-F01C12E8EE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA7A45D-674C-479F-B373-F01C12E8EE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA7A45D-674C-479F-B373-F01C12E8EE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFC4D07-6593-4400-868D-06EA2D3BEFF4}
+	EndGlobalSection
+EndGlobal

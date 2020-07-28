@@ -1,0 +1,14 @@
+Depurar aplicativos e implementar segurança (25–30%)
+•	Validar entrada de aplicativo 
+o	Validar dados JSON; escolher o tipo de coleta de dados adequado; gerenciar integridade de dados; avaliar uma expressão regular para validar o formato de entrada; usar funções internas para validar tipos e conteúdos
+•	Realizar criptografia simétrica e assimétrica 
+o	Escolher um algoritmo de criptografia apropriado; gerenciar e criar certificados; implementar gerenciamento de chave; implementar o namespace System.Security; fazendo hash de dados; criptografar fluxos
+•	Gerenciar montagens 
+o	Controlar versão de montagens; assinar montagens usando nomes fortes; implementar hospedagem lado a lado; colocar uma montagem no cache de montagens global; criar uma montagem WinMD
+•	Depurar um aplicativo 
+o	Criar e gerenciar diretrizes de pré-processador; escolher um tipo de compilação apropriado; gerenciar arquivos e símbolos de banco de dados do programa (símbolos de depuração)
+•	Implementar diagnóstico em um aplicativo 
+o	Implementar log e rastreamento; criação de perfil de aplicativos; criar e monitor contadores de desempenho; escrever para o log de eventos
+
+
+

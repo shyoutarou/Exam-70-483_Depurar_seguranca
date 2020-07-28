@@ -1,0 +1,1 @@
+Esses algoritmos simétricos são definidos no .NET e podem ser encontradas nas classes System.Security.Cryptography

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetObjectUri", "SetObjectUri\SetObjectUri.csproj", "{A2B2F5A2-79AE-4A7D-8B44-0024C243AB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarshalPrintDomain", "MarshalPrintDomain\MarshalPrintDomain.csproj", "{A8B3D583-5410-47BA-B84A-173FB4DD0D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B2F5A2-79AE-4A7D-8B44-0024C243AB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B2F5A2-79AE-4A7D-8B44-0024C243AB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B2F5A2-79AE-4A7D-8B44-0024C243AB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B2F5A2-79AE-4A7D-8B44-0024C243AB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B3D583-5410-47BA-B84A-173FB4DD0D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B3D583-5410-47BA-B84A-173FB4DD0D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B3D583-5410-47BA-B84A-173FB4DD0D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B3D583-5410-47BA-B84A-173FB4DD0D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E176D8B-514C-40CB-923D-CCBCD4EA045E}
+	EndGlobalSection
+EndGlobal
